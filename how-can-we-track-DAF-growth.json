@@ -1,0 +1,433 @@
+{
+    "title": "How can we track DAF growth?",
+    "dateCreated": "March 29, 2024",
+    "description": "These are the written ideas from the AFP Massachusets Fundraising Day conference held\n                        on March 29 2024. The topic on tracking DAF growth was built by those in attendance.",
+    "license-type": "The MIT License",
+    "data": [
+        {
+            "content": "Keep donor aware of their impact and continue stewardship for future and larger DAFs",
+            "occurences": "10",
+            "planID": "5"
+        },
+        {
+            "content": "Report of DAFs year over year",
+            "occurences": "9",
+            "planID": "3"
+        },
+        {
+            "content": "Provide step by step instructions for DAF gifts",
+            "occurences": "8",
+            "planID": "5"
+        },
+        {
+            "content": "Pull list of donors who have given through DAFS",
+            "occurences": "8",
+            "planID": "4"
+        },
+        {
+            "content": "Thank Donor ASAP with note / email",
+            "occurences": "7",
+            "planID": "5"
+        },
+        {
+            "content": "Develop reports on above data to track trends over time",
+            "occurences": "7",
+            "planID": "10"
+        },
+        {
+            "content": "Promote DAF giving in solicitations",
+            "occurences": "6",
+            "planID": "7"
+        },
+        {
+            "content": "Create communication plan for engaging DAF donors",
+            "occurences": "6",
+            "planID": "9"
+        },
+        {
+            "content": "Develop dashboard to track DAF donation.",
+            "occurences": "5",
+            "planID": "13"
+        },
+        {
+            "content": "Make sure data infrastructure is in place to track DAF organizations (i.e. Constituent Codes)",
+            "occurences": "5",
+            "planID": "10"
+        },
+        {
+            "content": "Collaborate with peer nonprofits or sector wide nonprofits around tracking DAF giving",
+            "occurences": "4",
+            "planID": "9"
+        },
+        {
+            "content": "Research top DAFs by giving and find to 30-50",
+            "occurences": "4",
+            "planID": "12"
+        },
+        {
+            "content": "Research which are giving to orgs like mine; this is target list.",
+            "occurences": "4",
+            "planID": "12"
+        },
+        {
+            "content": "Create DAF DM piece",
+            "occurences": "4",
+            "planID": "21"
+        },
+        {
+            "content": "Identify donors with past DAF giving",
+            "occurences": "4",
+            "planID": "23"
+        },
+        {
+            "content": "Educate them on giving methods and engage them with DAF opportunities",
+            "occurences": "3",
+            "planID": "5"
+        },
+        {
+            "content": "List on website and other ways of giving",
+            "occurences": "3",
+            "planID": "6"
+        },
+        {
+            "content": "Record the daf name not just the donor name when entering",
+            "occurences": "3",
+            "planID": "6"
+        },
+        {
+            "content": "Conceptualize marketing strategy for current and past DAF donors",
+            "occurences": "3",
+            "planID": "21"
+        },
+        {
+            "content": "Connect with fidelity",
+            "occurences": "3",
+            "planID": "3"
+        },
+        {
+            "content": "Make DAF payments easier to make",
+            "occurences": "3",
+            "planID": "7"
+        },
+        {
+            "content": "\"Map giving over time visually",
+            "occurences": " given these metrics\"",
+            "planID": "3"
+        },
+        {
+            "content": "Connect with DAF managers ( Fidelity $",
+            "occurences": "3",
+            "planID": "25"
+        },
+        {
+            "content": "Use database to tag gifts that come via DAFs",
+            "occurences": "3",
+            "planID": "1"
+        },
+        {
+            "content": "Analyze and iterate on report to get to the answers you're looking for",
+            "occurences": "3",
+            "planID": "10"
+        },
+        {
+            "content": "Stay apprised on tax laws and changes",
+            "occurences": "3",
+            "planID": "8"
+        },
+        {
+            "content": "Keep good data about which donors give through DAFs",
+            "occurences": "3",
+            "planID": "16"
+        },
+        {
+            "content": "Pull report of all gifts that come in through DAFs across quarters",
+            "occurences": "2",
+            "planID": "1"
+        },
+        {
+            "content": "Make gift team aware of DAF potential and incoming gifts",
+            "occurences": "2",
+            "planID": "5"
+        },
+        {
+            "content": "Ensure we're capturing donor information",
+            "occurences": "2",
+            "planID": "7"
+        },
+        {
+            "content": "Track gifts from DAFs internally",
+            "occurences": "2",
+            "planID": "9"
+        },
+        {
+            "content": "Figure out which banks / foundations those DAFs are coming from",
+            "occurences": "2",
+            "planID": "11"
+        },
+        {
+            "content": "Develop data governance to code DAF",
+            "occurences": "2",
+            "planID": "13"
+        },
+        {
+            "content": "Develop predictive models based key data.",
+            "occurences": "2",
+            "planID": "13"
+        },
+        {
+            "content": "Figure out how to get donor information? This is a big challenge.",
+            "occurences": "2",
+            "planID": "17"
+        },
+        {
+            "content": "Identify DAF donors / donations in past 3-5 years",
+            "occurences": "2",
+            "planID": "19"
+        },
+        {
+            "content": "Set strategy and tactics for growth plan",
+            "occurences": "2",
+            "planID": "19"
+        },
+        {
+            "content": "Pull current and past DAF activity",
+            "occurences": "2",
+            "planID": "21"
+        },
+        {
+            "content": "Code donors with DAFs in database appropriately",
+            "occurences": "2",
+            "planID": "26"
+        },
+        {
+            "content": "Send tax receipt",
+            "occurences": "2",
+            "planID": "5"
+        },
+        {
+            "content": "Add gift type or subtype of DAF",
+            "occurences": "2",
+            "planID": "10"
+        },
+        {
+            "content": "\"Find records of these DAFs from last five years-- search for impact reports",
+            "occurences": " other online resources.\"",
+            "planID": "2"
+        },
+        {
+            "content": "Decide which DAFs are most likely to yield success for your org and continue to track.",
+            "occurences": "2",
+            "planID": "12"
+        },
+        {
+            "content": "Identify giving from DAFs from past 3 years",
+            "occurences": "2",
+            "planID": "17"
+        },
+        {
+            "content": "Ensure that DAF gifts are processed and acknowledged correctly",
+            "occurences": "2",
+            "planID": "18"
+        },
+        {
+            "content": "Develop strategy to ask people to increase giving from DAF?",
+            "occurences": "2",
+            "planID": "20"
+        },
+        {
+            "content": "Compare YOY DAF gift counts",
+            "occurences": "2",
+            "planID": "23"
+        },
+        {
+            "content": "Identify donors with DAFs",
+            "occurences": "2",
+            "planID": "26"
+        },
+        {
+            "content": "Just get right in front of it -->Put something on my organization's website that describes the advantages of having a DAF",
+            "occurences": "2",
+            "planID": "11"
+        },
+        {
+            "content": "Flag those individuals for ongoing research",
+            "occurences": "2",
+            "planID": "16"
+        },
+        {
+            "content": "Make sure database has the capacity to do this effectively.",
+            "occurences": "2",
+            "planID": "20"
+        },
+        {
+            "content": "You need a point person or project manager.",
+            "occurences": "2",
+            "planID": "20"
+        },
+        {
+            "content": "Research donors giving capacity",
+            "occurences": "2",
+            "planID": "23"
+        },
+        {
+            "content": "Share DAFs as a giving method during solicitation process",
+            "occurences": "2",
+            "planID": "23"
+        },
+        {
+            "content": "\"Build relationships with the DAF managers at fidelity",
+            "occurences": " Schwab",
+            "planID": " etc.\""
+        },
+        {
+            "content": "Find new prospects",
+            "occurences": "1",
+            "planID": "5"
+        },
+        {
+            "content": "\"Be aware of company with daf options and how they distribute (check",
+            "occurences": " ach",
+            "planID": " other)\""
+        },
+        {
+            "content": "Recording daf as separate from an org or ind",
+            "occurences": "1",
+            "planID": "6"
+        },
+        {
+            "content": "Solicit daf individuals",
+            "occurences": "1",
+            "planID": "7"
+        },
+        {
+            "content": "Find ways to connect with potential donors",
+            "occurences": "1",
+            "planID": "8"
+        },
+        {
+            "content": "Improve ease of DAF contributions",
+            "occurences": "1",
+            "planID": "8"
+        },
+        {
+            "content": "Identify the average ages of the folks with DAFs",
+            "occurences": "1",
+            "planID": "11"
+        },
+        {
+            "content": "Curate listing of known DAFs",
+            "occurences": "1",
+            "planID": "13"
+        },
+        {
+            "content": "Collect historical stock market trends.",
+            "occurences": "1",
+            "planID": "13"
+        },
+        {
+            "content": "Year over year growth in database",
+            "occurences": "1",
+            "planID": "14"
+        },
+        {
+            "content": "ID donors with DAFs",
+            "occurences": "1",
+            "planID": "15"
+        },
+        {
+            "content": "Educate donors and staff about it",
+            "occurences": "1",
+            "planID": "18"
+        },
+        {
+            "content": "Track monthly DAF gifts and research growth",
+            "occurences": "1",
+            "planID": "18"
+        },
+        {
+            "content": "Ensure that DAF sponsorship gifts are coded correctly",
+            "occurences": "1",
+            "planID": "18"
+        },
+        {
+            "content": "Track and analyze results against initial metrics",
+            "occurences": "1",
+            "planID": "19"
+        },
+        {
+            "content": "Create database of everyone you know who has a DAF.",
+            "occurences": "1",
+            "planID": "20"
+        },
+        {
+            "content": "Create stewardship plan for people with DAFs. Special communication from head of organization or planned giving office?",
+            "occurences": "1",
+            "planID": "20"
+        },
+        {
+            "content": "Pull a list of high capacity donors",
+            "occurences": "1",
+            "planID": "21"
+        },
+        {
+            "content": "Follow up personally to those who received appeal",
+            "occurences": "1",
+            "planID": "21"
+        },
+        {
+            "content": "Evaluate full FY DAf activity following marketing campaign",
+            "occurences": "1",
+            "planID": "21"
+        },
+        {
+            "content": "Measure against past performance",
+            "occurences": "1",
+            "planID": "21"
+        },
+        {
+            "content": "\"Research individual prospects giving history using external databases",
+            "occurences": " to find associations with Charitable giving funds /foundations\"",
+            "planID": "1"
+        },
+        {
+            "content": "Educate staff about DAF",
+            "occurences": "1",
+            "planID": "25"
+        },
+        {
+            "content": "Develop policy for soft crediting DAF account holders",
+            "occurences": "1",
+            "planID": "10"
+        },
+        {
+            "content": "\"Create metrics that will be most able to be measured/useful",
+            "occurences": " given the info out there\"",
+            "planID": "1"
+        },
+        {
+            "content": "Identify donors with the strong potential giving",
+            "occurences": "1",
+            "planID": "23"
+        },
+        {
+            "content": "\"Analyze growth of DAFs for each donor based on starting capacity",
+            "occurences": " current capacity",
+            "planID": " history of giving"
+        },
+        {
+            "content": "Screen those donors every 3-6 months to look for new philanthropic gifts",
+            "occurences": "1",
+            "planID": "16"
+        },
+        {
+            "content": "Ask fundraisers to incorporate the following question in their meetings--Do you have a DAF?",
+            "occurences": "1",
+            "planID": "20"
+        },
+        {
+            "content": "Create fundraising database field to tag DAF donations",
+            "occurences": "1",
+            "planID": "22"
+        }
+    ]
+}
